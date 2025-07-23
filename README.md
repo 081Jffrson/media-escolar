@@ -10,7 +10,7 @@ n2 = float(input('Digite sua segunda nota: '))
 
 media = (n1 + n2)/2
 
-print(f'Sua média foi: {media:.2f}')
+print(f'Sua média foi: {media}')
 
 if media >= 7:
     print(f'Parabéns {nome}, você está: APROVADO!!')
