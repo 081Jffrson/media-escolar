@@ -1,5 +1,5 @@
 # media-escolar
-Programa em Python que calcula média de duas notas e informa se o aluno foi aprovado, em recuperação ou reprovado.
+Programa em Python que calcula média de duas notas e informa se o aluno foi aprovado, se ficou em recuperação ou reprovado.
 
 nome = input('Digite seu nome: ')
 idade = int(input('Digite sua idade: '))
